@@ -154,3 +154,13 @@ public class Main {
         return euclideanAlgorithm(b, a % b);
     }
 }
+    // O(n)
+    // O(n)
+    // O(sqrt(n))
+    // O(n)
+    // O(2^n)
+    // O(n)
+    // O(n!)
+    // O(n)
+    // O(n*k)
+    // O(log(min(a, b)))
