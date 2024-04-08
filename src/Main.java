@@ -154,13 +154,13 @@ public class Main {
         return euclideanAlgorithm(b, a % b);
     }
 }
-    // O(n)
-    // O(n)
-    // O(sqrt(n))
-    // O(n)
-    // O(2^n)
-    // O(n)
-    // O(n!)
-    // O(n)
-    // O(n*k)
-    // O(log(min(a, b)))
+// task 1 O(n)
+// task 2 O(n)
+// task 3 O(sqrt(n))
+// task 4 O(n)
+// task 5 O(2^n)
+// task 6 O(n)
+// task 7 O(n!)
+// task 8 O(n)
+// task 9 O(n*k)
+// task 10 O(log(min(a, b)))
